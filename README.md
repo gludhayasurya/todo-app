@@ -47,7 +47,7 @@ The following modules/packages were used in this project:
  **Installation**
   
   Clone the repository - 
-  git clone 
+  git clone  https://github.com/gludhayasurya/todo-app.git
  
 
  **Setup**
